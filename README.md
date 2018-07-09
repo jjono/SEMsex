@@ -1,5 +1,5 @@
 # sexual.selection
-R code for calculating the strength of sexual selection and remaining selection at both the phenotypic and quantitative genetic levels, as detailed in the paper:
+R code and example data for calculating the strength of sexual selection and remaining selection at both the phenotypic and quantitative genetic levels, as detailed in the paper:
 
 Henshaw JM, Jennions MD, Kruuk LEB (2018). How to quantify (the response to) sexual selection on traits. Evolution.
 
